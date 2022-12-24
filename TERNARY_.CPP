@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<conio.h>
 
+//******max b/w two numbers****//
+
 main(){
 clrscr();
 
